@@ -1,4 +1,4 @@
- # Sentiment-Analysis-NLP
+ # Youtube-Sentiment-Analysis-NLP
 ## INTRODUCTION
 Sentiment Analysis is one of the Natural Language Processing techniques, which can be used to determine the sensibility behind the texts, i.e. tweets, movie reviews, YouTube comments, any incoming message, etc.  It’s in use on a large scale as many big firms are using it to examine customer reviews about their product/services, on social media, their websites which helps them to maintain their brand values. Some of the big corporations using this technique to invigorate customer engagement with their service areas:
  
